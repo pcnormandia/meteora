@@ -1,0 +1,24 @@
+.texto-menor{
+    font-size: 13px;
+}
+.divs-facilidades{
+    width: 325px;
+}
+
+.destaque-texto, .destaque-icone{
+    color: #DAFF01;
+}
+
+.botao-destaque{
+    background-color: #9353FF;
+}
+
+.posicao{
+    top:55%;
+}
+
+@media(min-width: 768px){
+    .posicao{
+        top: 60%;
+    }
+}
